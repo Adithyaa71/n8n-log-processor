@@ -1,0 +1,17 @@
+{
+  "name": "n8n-log-processor",
+  "version": "1.0.0",
+  "description": "A simple backend service for user data processing",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "cors": "^2.8.5",
+    "body-parser": "^1.20.2",
+    "pg": "^8.11.0"
+  }
+}
