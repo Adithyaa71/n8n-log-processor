@@ -1,4 +1,5 @@
-# Vulnerable Node.js Service (DEMO)
+# Vulnerable Node.js Service 
+Strictly Demo Purpose only
 
 This repository is intentionally vulnerable. **DO NOT USE IN PRODUCTION.**
 
