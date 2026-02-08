@@ -3,7 +3,7 @@ Strictly Demo Purpose only
 
 This repository is intentionally vulnerable. **DO NOT USE IN PRODUCTION.**
 
-It is designed to demonstrate the code analysis capabilities of LLMs.
+It is designed to demonstrate the code bug analysis capabilities of LLMs.
 
 ## Installation
 
@@ -27,6 +27,7 @@ npm start
 ## Disclaimer
 
 This code contains:
+-fake API keys
 - Hardcoded secrets
 - Security vulnerabilities
 - Logic bugs
